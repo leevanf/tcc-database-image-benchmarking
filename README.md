@@ -24,13 +24,8 @@ Inside the images folder is the payload used in tests, as well as each of the th
     - PostgreSQL
 
 - NoSQL
-    - Amazon S3
     - Cassandra
-    - CouchDB
-    - DynamoDB
-    - KuzuDB
     - MongoDB
-    - OrientDB
     - Redis
     - Solr
 
