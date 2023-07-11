@@ -13,7 +13,9 @@ This also serves as our graduation's final project.
 
 Inside the database's corresponding folder, there is a python script used inside each database's docker.
 
-Inside the images folder is the payload used in tests, as well as each of the three sorting patterns used.
+Inside the images folder is the payload used in tests.
+
+Inside scripts folder, there is a ordering folder, which includes the three sorting patterns used.
 
 ## Databases used
 
